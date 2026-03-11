@@ -11,7 +11,7 @@ const Status = ({ stat, setIsComplete, handleComplete }) => {
         }}
         className="bg-green-400 cursor-pointer font-semibold text-xl py-1 text-white text-center rounded-xl mt-5"
       >
-        compite
+        Complite
       </button>
     </div>
   );
