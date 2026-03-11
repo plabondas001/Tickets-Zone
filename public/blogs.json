@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1001,
+    "title": "Login Issues - Can't Access Account",
+    "description": "Customer is unable to log in to their account even after resetting the password multiple times.",
+    "customer": "John Smith",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2024-01-15"
+  },
+  {
+    "id": 1002,
+    "title": "Payment Failed During Checkout",
+    "description": "Customer reports that the payment fails every time they try to complete the order.",
+    "customer": "Sarah Johnson",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2024-01-16"
+  },
+  {
+    "id": 1003,
+    "title": "Order Not Showing in Dashboard",
+    "description": "Customer placed an order but it is not visible in their order history.",
+    "customer": "Michael Brown",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2024-01-17"
+  },
+  {
+    "id": 1004,
+    "title": "Email Verification Not Working",
+    "description": "Customer did not receive the email verification link after signing up.",
+    "customer": "Emily Davis",
+    "priority": "Medium",
+    "status": "Pending",
+    "createdAt": "2024-01-18"
+  },
+  {
+    "id": 1005,
+    "title": "Profile Update Error",
+    "description": "Customer gets an error message when trying to update profile information.",
+    "customer": "Daniel Wilson",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2024-01-19"
+  },
+  {
+    "id": 1006,
+    "title": "Product Image Not Loading",
+    "description": "Customer reports that product images are not loading on the product page.",
+    "customer": "Olivia Martinez",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2024-01-20"
+  },
+  {
+    "id": 1007,
+    "title": "Cart Items Disappearing",
+    "description": "Items added to the cart disappear after refreshing the page.",
+    "customer": "James Anderson",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2024-01-21"
+  },
+  {
+    "id": 1008,
+    "title": "Refund Request Not Processed",
+    "description": "Customer requested a refund but the request is still not processed.",
+    "customer": "Sophia Thomas",
+    "priority": "Medium",
+    "status": "Pending",
+    "createdAt": "2024-01-22"
+  },
+  {
+    "id": 1009,
+    "title": "Shipping Address Not Saving",
+    "description": "Customer cannot save a new shipping address in their account settings.",
+    "customer": "William Taylor",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2024-01-23"
+  },
+  {
+    "id": 1010,
+    "title": "Discount Code Not Working",
+    "description": "Customer reports that the discount code shows invalid during checkout.",
+    "customer": "Isabella Moore",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2024-01-24"
+  },
+  {
+    "id": 1011,
+    "title": "Slow Website Loading",
+    "description": "Customer says the website takes too long to load pages.",
+    "customer": "Benjamin Jackson",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2024-01-25"
+  },
+  {
+    "id": 1012,
+    "title": "Notification Settings Not Saving",
+    "description": "Customer cannot save changes to notification preferences.",
+    "customer": "Mia White",
+    "priority": "Low",
+    "status": "Pending",
+    "createdAt": "2024-01-26"
+  }
+]
